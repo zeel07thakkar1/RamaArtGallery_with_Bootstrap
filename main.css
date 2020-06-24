@@ -1,0 +1,212 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+.clear
+{
+	clear: both;
+}
+.navbar-toggler
+{
+	background-color:#861c1c !important;
+}
+
+.nav-link
+{
+	color: #a26320 !important;
+	
+	
+}
+.nav-link:hover
+{
+	color: #861c1c !important;
+}
+.navbar-bg
+{
+	background-image: url('images/header_bg.png');
+	position: relative;
+    z-index: 9999;
+    background-color: transparent;
+    background-repeat: repeat-x;
+    height: 130px;
+    border: none;
+    border-radius: 0;
+
+}
+.slide-bg
+{
+	background-image: url('images/slider_left.png'),url('images/slider_right.png'),url('images/slider_bg.png');
+	background-position: center left,center right,center center;
+	background-repeat: no-repeat, no-repeat,repeat-x;
+	margin-top: -50px;
+	position: relative;
+	z-index: 9998;
+
+}
+.slide-img
+{
+	/*top: 70px;
+	left: 180px;
+	position: relative;*/
+	position: relative;
+    left: 50%;
+    margin-left: -450px;
+    top: 60px;
+
+}
+.carousel-indicators li
+{
+	height: 20px;
+}
+.red-bg
+{
+	background-image: url('images/hanger_left.png'),url('images/hanger_right.png'),url('images/pattern_red.png');
+	background-repeat: no-repeat,no-repeat,repeat;
+	background-position: top left,top right,center center;
+	margin-top:-40px;
+	padding-bottom: 60px;
+	
+}
+.mid-img
+{
+	margin-top: 80px;
+	width: 100%;
+
+}
+.pro-img
+{
+	width: 100%;
+	margin-top: 20px;
+}
+.toran
+{
+	width: 100%;
+	position: absolute;
+	left: 0;
+}
+.service_bg
+{
+	width: 100%;
+	padding: 0px;
+}
+.yellow-bg
+{
+	background-image: url('images/pattern_yellow.png');
+	margin-top: -40px;
+	padding: 100px 0px;
+}
+.s_title
+{
+	text-align: center !important;
+	color: white;
+	width: 100%;
+
+}
+.s_item
+{
+	color: #861c1c;
+	font-weight: 600;
+	width: 100%;
+}
+.testimonials-bg
+{
+	background-image: url('images/car.png'),url('images/elephant.png'),url('images/pattern_red.png');
+	background-repeat: no-repeat,no-repeat,repeat;
+	background-position: center left,center right,center center;
+	padding-top: 120px;
+}
+.inquiry_bg
+{
+	background-image: url('images/contact-details-bg.png');
+}
+.contact_div
+{
+	display: inline;
+}
+.footer_1
+{
+	background-image: url('images/primary-footer-bg.png');
+	padding: 50px;
+}
+.footer_menu
+{
+	list-style-type: none;
+
+}
+.footer_menu li a
+{
+	color: #554132;
+	font-weight: 500;
+	text-decoration: none;
+}
+.social-lbl
+{
+	color: #861c1c;
+	font-size: 20px;
+}
+.social-tag
+{
+	background-image: url('images/social-icon-sprite.png');
+	height: 26px;
+	width: 26px;
+	display: inline-block;
+	margin: 5px;
+	cursor: pointer;
+}
+.fb
+{
+	background-position: 0px 26px;
+
+}
+.insta
+{
+	background-position: 26px 26px;
+}
+.footer_2
+{
+	background-color: #591c10;
+}
+.footer_2_text
+{
+	color: #ba7f4a;
+	font-size: 12px;
+	line-height: 60px;
+}
+.about_red_bg
+{
+	background-image:url('images/slider_left.png'),url('images/slider_right.png'),url('images/hanger_left.png'),url('images/hanger_right.png'),url('images/pattern_red.png');
+	background-position:center left,center right, top left, top right,center center;
+	background-repeat:no-repeat,no-repeat, no-repeat,no-repeat,repeat;
+	margin-top: -30px;
+	padding-bottom: 80px;
+}
+.about_container
+{
+	background-image: url('images/about_bg.png');
+	background-position: top center;
+	height: auto;
+	background-repeat: no-repeat;
+	position: relative;
+}
+.about_wrapper
+{
+	padding-top: 100px;
+	padding-left: 150px;
+	padding-right: 150px;
+}
+.about_img
+{
+	width: 100%;
+
+}
+.pro_wrapper
+{
+	padding-top: 100px;
+
+	padding-right: 150px;
+}
+.g_map
+{
+	width: 100%;
+}
